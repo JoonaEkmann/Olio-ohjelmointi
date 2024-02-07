@@ -1,0 +1,15 @@
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.csproj.AssemblyReference.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.AssemblyInfoInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.AssemblyInfo.cs
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.csproj.CoreCompileInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/bin/Debug/net7.0/Periytyminen
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/bin/Debug/net7.0/Periytyminen.deps.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/bin/Debug/net7.0/Periytyminen.runtimeconfig.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/bin/Debug/net7.0/Periytyminen.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/bin/Debug/net7.0/Periytyminen.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/refint/Periytyminen.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/Periytyminen.genruntimeconfig.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Periytyminen/obj/Debug/net7.0/ref/Periytyminen.dll

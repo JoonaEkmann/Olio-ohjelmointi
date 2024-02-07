@@ -1,0 +1,15 @@
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/bin/Debug/net7.0/OlioTehtävätNew
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/bin/Debug/net7.0/OlioTehtävätNew.deps.json
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/bin/Debug/net7.0/OlioTehtävätNew.runtimeconfig.json
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/bin/Debug/net7.0/OlioTehtävätNew.dll
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/bin/Debug/net7.0/OlioTehtävätNew.pdb
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.csproj.AssemblyReference.cache
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.AssemblyInfoInputs.cache
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.AssemblyInfo.cs
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.csproj.CoreCompileInputs.cache
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.dll
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/refint/OlioTehtävätNew.dll
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.pdb
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/OlioTehtävätNew.genruntimeconfig.cache
+/Users/joonaekmann/Projects/BookTehtävä/OlioTehtävätNew/obj/Debug/net7.0/ref/OlioTehtävätNew.dll

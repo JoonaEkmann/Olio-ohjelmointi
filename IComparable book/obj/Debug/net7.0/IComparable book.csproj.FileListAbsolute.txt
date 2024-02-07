@@ -1,0 +1,15 @@
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/bin/Debug/net7.0/IComparable book
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/bin/Debug/net7.0/IComparable book.deps.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/bin/Debug/net7.0/IComparable book.runtimeconfig.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/bin/Debug/net7.0/IComparable book.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/bin/Debug/net7.0/IComparable book.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.csproj.AssemblyReference.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.AssemblyInfoInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.AssemblyInfo.cs
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.csproj.CoreCompileInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/refint/IComparable book.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/IComparable book.genruntimeconfig.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/IComparable book/obj/Debug/net7.0/ref/IComparable book.dll

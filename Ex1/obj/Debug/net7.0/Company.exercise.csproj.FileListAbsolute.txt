@@ -1,0 +1,15 @@
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/bin/Debug/net7.0/Company.exercise
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/bin/Debug/net7.0/Company.exercise.deps.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/bin/Debug/net7.0/Company.exercise.runtimeconfig.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/bin/Debug/net7.0/Company.exercise.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/bin/Debug/net7.0/Company.exercise.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.csproj.AssemblyReference.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.AssemblyInfoInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.AssemblyInfo.cs
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.csproj.CoreCompileInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/refint/Company.exercise.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/Company.exercise.genruntimeconfig.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/Ex1/obj/Debug/net7.0/ref/Company.exercise.dll

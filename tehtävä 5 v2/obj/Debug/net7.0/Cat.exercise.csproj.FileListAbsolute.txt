@@ -1,0 +1,15 @@
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/bin/Debug/net7.0/Cat.exercise
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/bin/Debug/net7.0/Cat.exercise.deps.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/bin/Debug/net7.0/Cat.exercise.runtimeconfig.json
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/bin/Debug/net7.0/Cat.exercise.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/bin/Debug/net7.0/Cat.exercise.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.csproj.AssemblyReference.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.AssemblyInfoInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.AssemblyInfo.cs
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.csproj.CoreCompileInputs.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/refint/Cat.exercise.dll
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.pdb
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/Cat.exercise.genruntimeconfig.cache
+/Users/joonaekmann/Projects/OlioTehtävätNew/tehtävä 5 v2/obj/Debug/net7.0/ref/Cat.exercise.dll
