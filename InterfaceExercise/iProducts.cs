@@ -1,11 +1,10 @@
 ﻿using System;
 namespace InterfaceExercise
 {
-	internal interface iProducts
+	public interface iProducts
 	{
-		Product GetProduct(string name);
-
-		double CalculateTotal();
-	}
+        void AddProduct(Product product);
+        void PrintProducts();
+    }
 }
 

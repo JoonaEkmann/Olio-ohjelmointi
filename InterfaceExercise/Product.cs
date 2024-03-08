@@ -1,7 +1,7 @@
 ﻿using System;
 namespace InterfaceExercise
 {
-	public class Product : iProducts
+	public class Product : iProduct
 	{
 		public string name;
 		public double price;
